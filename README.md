@@ -9,10 +9,10 @@ Machine Learning
 Pandas
 Numpy
 Quandl
-Yahoo Finance
 Scikit-Learn
 Linear Regression
 Support Vector Machine - SVR
+Yahoo Finance
 
 Currently working on a trading bot to execute trades, purchases, and sales based on prediction behavior of stocks.
 The aim of this project is to develop a machine learning model to make predictions that closely reflects actual stock market trends.
