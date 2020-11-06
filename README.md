@@ -8,7 +8,6 @@ Python
 Machine Learning
 Pandas
 Numpy
-Quandl
 Scikit-Learn
 Linear Regression
 Support Vector Machine - SVR
