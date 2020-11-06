@@ -5,7 +5,7 @@ ryreadme.github.io
 
 Currently working on a trading bot to execute trades, purchases, and sales based on prediction behavior of stocks.
 The aim of this project is to develop a machine learning model to make predictions that closely reflects actual stock market trends.
-"Adjusted Stock Prices" have been imported from Yahoo Finance and based on available machine learning models will be used to train and test models.
+"Adjusted Stock Prices" have been imported from Yahoo Finance will be trained and tested on available machine learning models.
 The behavior of the market will be identical, but more models will be tested, graphed, and compared to actuall stock market data.
 
 Technologies Utilized:
